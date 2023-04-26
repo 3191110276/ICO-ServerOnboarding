@@ -1,1 +1,1 @@
-# Server Onboarding Workflows for Intersight Orchestration
+# Intersight Orchestration Server Onboarding
