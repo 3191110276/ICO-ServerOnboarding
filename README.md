@@ -2,6 +2,10 @@
 
 This repository is currently under development. The workflows are not final and for testing purposes only.
 
+<!---
+https://img.shields.io/badge/Status-Ready-green
+-->
+
 ## VMware
 Below you can find workflows that should help with building a VMware environment.
 
