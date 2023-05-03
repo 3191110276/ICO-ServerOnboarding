@@ -7,6 +7,8 @@ Right now we have examples for the following operating systems:
 * [Windows Server](#windows-server)
 * [Ubuntu Server](#ubuntu-server)
 
+To get started, download the package.json file and import it into your Intersight account. For instructions on importing a workflow, please have a look here: [Intersight Helpdocs](https://intersight.com/help/saas/resources/Workflow_Designer#importing_a_workflow).
+
 Please keep in mind that these workflows are provided as examples only. Please go ahead and test them in your own environment. If you encounter any issues, or if you would like to request new features, please use the GitHub mechanisms to provide feedback.
 
 <!---
