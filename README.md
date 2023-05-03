@@ -23,6 +23,11 @@ Below you can find workflows that should help with building a VMware environment
 
 ### Install VMware on local disk - Cisco Mode
 ![Testing](https://img.shields.io/badge/Status-Testing-orange)
+This workflow provisions one or multiple ESXi hosts. For each host it will:
+* Create and deploy a new UCS server profile
+* Install VMware operating system using Cisco-provided kickstart file
+* Connect the host to vCenter and add it to an existing Cluster
+* Add a DVS to the host
 
 ### Install VMware on local disk - Custom Mode
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
@@ -42,6 +47,9 @@ Below you can find workflows that should help with building a Windows Server env
 
 ### Install Windows on local disk - Cisco Mode
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
+This workflow provisions one or multiple Windows Server hosts. For each host it will:
+* Create and deploy a new UCS server profile
+* Install Windows Server operating system using Cisco-provided kickstart file
 
 ### Install Windows on local disk - Custom Mode
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
