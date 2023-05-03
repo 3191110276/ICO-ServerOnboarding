@@ -18,7 +18,7 @@ https://img.shields.io/badge/Status-Ready-green
 ## VMware
 Below you can find workflows that should help with building a VMware environment.
 
-### Create new VMware Cluster
+### New VMware Cluster
 ![Testing](https://img.shields.io/badge/Status-Testing-orange)
 
 ### Install VMware on local disk - Cisco Mode
