@@ -1,5 +1,12 @@
 # Intersight Orchestration Server Onboarding
 
+This repository contains workflows that help you with onboarding new servers into your Intersight environment quickly. These examples are based on workflows in Intersight Orchestration.
+
+Right now we have examples for the following operating systems:
+* VMware
+* Windows Server
+* Ubuntu Server
+
 This repository is currently under development. The workflows are not final and for testing purposes only.
 
 <!---
@@ -28,7 +35,7 @@ Below you can find workflows that should help with building a VMware environment
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
 
 
-## Windows
+## Windows Server
 Below you can find workflows that should help with building a Windows Server environment.
 
 ### Install Windows on local disk (Cisco Mode)
@@ -44,7 +51,7 @@ Below you can find workflows that should help with building a Windows Server env
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
 
 
-## Ubuntu
+## Ubuntu Server
 Below you can find workflows that should help with building an Ubuntu Server environment.
 
 ### Install Ubuntu on local disk (Custom Mode)
