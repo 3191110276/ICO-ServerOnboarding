@@ -4,8 +4,8 @@ This repository contains workflows that help you with onboarding new servers int
 
 Right now we have examples for the following operating systems:
 * [VMware](#vmware)
-* Windows Server
-* Ubuntu Server
+* [Windows Server](#windows-server)
+* [Ubuntu Server](#ubuntu-server)
 
 Please keep in mind that these workflows are provided as examples only. Please go ahead and test them in your own environment. If you encounter any issues, or if you would like to request new features, please use the GitHub mechanisms to provide feedback.
 
