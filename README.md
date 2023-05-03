@@ -6,6 +6,7 @@ This repository is currently under development. The workflows are not final and 
 Below you can find workflows that should help with building a VMware environment.
 
 ### Create new VMware Cluster
+![Testing](https://img.shields.io/badge/Status-Testing-orange)
 
 ### Install VMware on local disk (Cisco Mode)
 
