@@ -7,7 +7,7 @@ Right now we have examples for the following operating systems:
 * Windows Server
 * Ubuntu Server
 
-This repository is currently under development. The workflows are not final and for testing purposes only.
+Please keep in mind that these workflows are provided as examples only. Please go ahead and test them in your own environment. If you encounter any issues, or if you would like to request new features, please use the GitHub mechanisms to provide feedback.
 
 <!---
 https://img.shields.io/badge/Status-Ready-green
