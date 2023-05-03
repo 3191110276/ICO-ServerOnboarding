@@ -38,15 +38,7 @@ This workflow provisions one or multiple ESXi hosts. For each host it will:
 * Add a Distributed Virtual Switch (DVS) to the host
 
 
-### Install VMware on local disk - Custom Mode
-![In Development](https://img.shields.io/badge/Status-In%20Development-red)
-
-
 ### Install VMware on FC SAN - Cisco Mode
-![In Development](https://img.shields.io/badge/Status-In%20Development-red)
-
-
-### Install VMware on FC SAN - Custom Mode
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
 
 
@@ -68,15 +60,7 @@ This workflow provisions one or multiple Windows Server hosts. For each host it 
 * Install Windows Server operating system using Cisco-provided kickstart file
 
 
-### Install Windows on local disk - Custom Mode
-![In Development](https://img.shields.io/badge/Status-In%20Development-red)
-
-
 ### Install Windows on FC SAN - Cisco Mode
-![In Development](https://img.shields.io/badge/Status-In%20Development-red)
-
-
-### Install Windows on FC SAN - Custom Mode
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
 
 
@@ -90,13 +74,5 @@ Below you can find workflows that should help with building an Ubuntu Server env
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
 
 
-### Install Ubuntu on local disk - Embedded Mode
-![In Development](https://img.shields.io/badge/Status-In%20Development-red)
-
-
 ### Install Ubuntu on FC SAN - Custom Mode
-![In Development](https://img.shields.io/badge/Status-In%20Development-red)
-
-
-### Install Ubuntu on FC SAN - Embedded Mode
 ![In Development](https://img.shields.io/badge/Status-In%20Development-red)
