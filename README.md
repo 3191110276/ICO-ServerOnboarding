@@ -3,7 +3,7 @@
 This repository contains workflows that help you with onboarding new servers into your Intersight environment quickly. These examples are based on workflows in Intersight Orchestration.
 
 Right now we have examples for the following operating systems:
-* VMware
+* [VMware](#vmware)
 * Windows Server
 * Ubuntu Server
 
