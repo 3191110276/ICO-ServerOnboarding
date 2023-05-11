@@ -11,7 +11,7 @@ To get started, download the package.json file and import it into your Intersigh
 
 Please keep in mind that these workflows are provided as examples only. Please go ahead and test them in your own environment. If you encounter any issues, or if you would like to request new features, please use the GitHub mechanisms to provide feedback.
 
-IMPORTANT: The current version of the workflows is not yet supported on the Intersight appliances. Starting with the next releease, all workflows should be supported on the appliance as well.
+**Warning**: The current version of the workflows is not yet supported on the Intersight appliances. Starting with the next releease, all workflows should be supported on the appliance as well.
 
 <!---
 https://img.shields.io/badge/Status-Ready-green
